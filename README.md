@@ -57,7 +57,7 @@ The report is divided into multiple business-focused views to serve different st
 2. Finance View: https://github.com/Sushant7274/Business-Insights-360-Power-BI-Dashboard/blob/1e77ed29bcdcec3025ecee08f362579b50934d9f/Finance-view.jpg
    Focuses on financial metrics such as profitability, margins, and overall financial health.
 
-3. Sales View:
+3. Sales View: https://github.com/Sushant7274/Business-Insights-360-Power-BI-Dashboard/blob/334661e37d3fa9bb3eb3fe2ce25858e8ba176ed2/Sales-view.jpg
    Analyzes sales performance across customers, products, markets, and regions.
 
 4. Marketing View:
