@@ -63,7 +63,7 @@ The report is divided into multiple business-focused views to serve different st
 4. Marketing View: https://github.com/Sushant7274/Business-Insights-360-Power-BI-Dashboard/blob/4e631927e29f241fff6aa87633e9ab5ba019990f/Marketing-view.jpg
    Helps evaluate business performance from a market and customer growth perspective.
 
-5. Supply Chain View:
+5. Supply Chain View: https://github.com/Sushant7274/Business-Insights-360-Power-BI-Dashboard/blob/332e495e6d56d1e466aed39a5894032ced90bddf/Supply-chain-view.jpg
     Tracks forecast accuracy, operational efficiency, and supply chain performance.
 
 6. Executive View:
