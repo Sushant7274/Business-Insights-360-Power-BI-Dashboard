@@ -2,7 +2,7 @@
 
 
 📊 Business Insights 360 | Power BI Project
-https://app.powerbi.com/view?r=eyJrIjoiOGQwOWUwZTYtMzdjZC00ZWFhLTk1Y2UtNDRlOTMyZjFhNTk0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+https://app.powerbi.com/view?r=eyJrIjoiOGQwOWUwZTYtMzdjZC00ZWFhLTk1Y2UtNDRlOTMyZjFhNTk0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=a1eacd1be00de3fa391a
 
 📌 Project Overview
 
