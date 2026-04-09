@@ -51,7 +51,7 @@ The dashboard was designed to:
 The report is divided into multiple business-focused views to serve different stakeholders:
 
 
-1. Home Page:
+1. Home Page: (https://github.com/Sushant7274/Business-Insights-360-Power-BI-Dashboard/blob/908bd468bc83c2b59f98b398c3cd9a9a9e834dc7/Home.jpg)
     A central navigation page for smooth access to all dashboard sections.
 
 2. Finance View:
