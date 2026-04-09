@@ -52,25 +52,30 @@ The report is divided into multiple business-focused views to serve different st
 
 
 1. Home Page: https://github.com/Sushant7274/Business-Insights-360-Power-BI-Dashboard/blob/908bd468bc83c2b59f98b398c3cd9a9a9e834dc7/Home.jpg
+
     A central navigation page for smooth access to all dashboard sections.
 
 2. Finance View: https://github.com/Sushant7274/Business-Insights-360-Power-BI-Dashboard/blob/1e77ed29bcdcec3025ecee08f362579b50934d9f/Finance-view.jpg
+    
    Focuses on financial metrics such as profitability, margins, and overall financial health.
 
+
 3. Sales View: https://github.com/Sushant7274/Business-Insights-360-Power-BI-Dashboard/blob/334661e37d3fa9bb3eb3fe2ce25858e8ba176ed2/Sales-view.jpg
+   
    Analyzes sales performance across customers, products, markets, and regions.
 
 4. Marketing View: https://github.com/Sushant7274/Business-Insights-360-Power-BI-Dashboard/blob/4e631927e29f241fff6aa87633e9ab5ba019990f/Marketing-view.jpg
+   
    Helps evaluate business performance from a market and customer growth perspective.
 
 5. Supply Chain View: https://github.com/Sushant7274/Business-Insights-360-Power-BI-Dashboard/blob/332e495e6d56d1e466aed39a5894032ced90bddf/Supply-chain-view.jpg
+   
     Tracks forecast accuracy, operational efficiency, and supply chain performance.
 
-6. Executive View:
+6. Executive View: https://github.com/Sushant7274/Business-Insights-360-Power-BI-Dashboard/blob/94d1be9b7b95cb0db17411a8cb5051bb1dc762f0/Executive-view.jpg
+   
     Provides a high-level summary of overall business performance for senior leadership and decision-makers.
 
-7.  Info / Support Pages:
-    Additional pages for guidance, context, and report usability.
 
 
 📈 Key KPIs Tracked
